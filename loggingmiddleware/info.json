@@ -1,0 +1,15 @@
+[
+{
+    "email": "vikashkumar35867@gmail.com",
+    "name": "vikash kumar",
+    "rollNo": "22p31a05j3",
+    "accessCode": "NFwgRT",
+    "clientID": "0d9030f4-2bdd-4fab-9893-28c7524717fd",
+    "clientSecret": "PMnzENVGSeBUfnaE"
+},
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJ2aWthc2hrdW1hcjM1ODY3QGdtYWlsLmNvbSIsImV4cCI6MTc1MDkxODQwOCwiaWF0IjoxNzUwOTE3NTA4LCJpc3MiOiJBZmZvcmQgTWVkaWNhbCBUZWNobm9sb2dpZXMgUHJpdmF0ZSBMaW1pdGVkIiwianRpIjoiY2NmOTJjYzctNjZkYy00ODI3LTlkZWItMzc2MGYzM2NkNWNhIiwibG9jYWxlIjoiZW4tSU4iLCJuYW1lIjoidmlrYXNoIGt1bWFyIiwic3ViIjoiMGQ5MDMwZjQtMmJkZC00ZmFiLTk4OTMtMjhjNzUyNDcxN2ZkIn0sImVtYWlsIjoidmlrYXNoa3VtYXIzNTg2N0BnbWFpbC5jb20iLCJuYW1lIjoidmlrYXNoIGt1bWFyIiwicm9sbE5vIjoiMjJwMzFhMDVqMyIsImFjY2Vzc0NvZGUiOiJORndnUlQiLCJjbGllbnRJRCI6IjBkOTAzMGY0LTJiZGQtNGZhYi05ODkzLTI4Yzc1MjQ3MTdmZCIsImNsaWVudFNlY3JldCI6IlBNbnpFTlZHU2VCVWZuYUUifQ.rRv5SLfi_xzT7LxbActvPwItkrccQYPJYCaU96tD06M",
+    "expires_in": 1750918408
+}
+]

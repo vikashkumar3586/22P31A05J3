@@ -1,0 +1,60 @@
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Loading animation */
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.loading-pulse {
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+/* Smooth transitions */
+.smooth-transition {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Custom Material-UI overrides */
+.MuiAlert-root {
+  border-radius: 8px !important;
+}
+
+.MuiCard-root {
+  border-radius: 12px !important;
+}
+
+.MuiPaper-root {
+  border-radius: 8px !important;
+}
+
+/* Responsive text */
+@media (max-width: 600px) {
+  .responsive-text {
+    font-size: 0.875rem !important;
+  }
+}
